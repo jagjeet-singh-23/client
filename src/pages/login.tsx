@@ -1,5 +1,6 @@
 import { useLogin } from "@refinedev/core";
 import { useEffect, useRef } from "react";
+import { yariga } from '../assets'
 
 import { Box, Container, Typography } from "@mui/material";
 import { ThemedTitleV2 } from "@refinedev/mui";
